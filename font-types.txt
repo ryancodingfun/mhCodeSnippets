@@ -1,0 +1,24 @@
+Fonts and Materials (enter these in a text gizmo, and your strings after the last ">" symbol):
+<font=anton sdf>
+<font=anton sdf><material=anton sdf - drop shadow>
+<font=anton sdf><material=anton sdf - outline>
+<font=bangers sdf>
+<font=bangers sdf><material=bangers sdf - drop shadow>
+<font=bangers sdf><material=bangers sdf - outline>
+<font=bangers sdf><material=bangers sdf glow>
+<font=bangers sdf><material=bangers sdf logo>
+<font=electronic highway sign sdf>
+<font=liberationsans sdf><material=liberationsans sdf - metalic green>
+<font=liberationsans sdf><material=liberationsans sdf - overlay>
+<font=oswald bold sdf>
+<font=roboto-bold sdf><material=roboto-bold sdf - drop shadow>
+<font=roboto-bold sdf><material=roboto-bold sdf - surface>
+Emojis:
+<sprite=“default sprite asset” index=1>
+<sprite=“dropcap numbers” index=1>
+Note: change the index number to obtain different emojis.
+Gradients:
+<gradient=blue to purple - vertical>
+<gradient=dark to light green - vertical>
+<gradient=light to dark green - vertical>
+<gradient=yellow to orange - vertical>
