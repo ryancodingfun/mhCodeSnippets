@@ -1,0 +1,26 @@
+[
+    {
+      "CUIId": "1",
+      "enabled": true,
+      "titleText": "Welcome!",
+      "subTitleText": "We're glad you're here.",
+      "bodyText": "Welcome to our game!\n\nTo get started, move your controllers in the direction where you'd like to explore.\n\nTo collect an item, approach it and click the trigger.\n\nHave fun!",
+      "logoAssetId": "3640063222903226",
+    },
+    {
+      "CUIId": "2",
+      "enabled": true,
+      "titleText": "Having trouble?",
+      "subTitleText": "We can help!",
+      "bodyText": "If you are having trouble figuring out the next step in your adventure, you can visit these kiosks or approach an avatar with a light blue shirt.\n\nIf you are still having difficulties, how about some frosty delicious documentation?",
+      "logoAssetId": "3640063222903226",
+    },
+    {
+      "CUIId": "3",
+      "enabled": true,
+      "titleText": "Winning the Game",
+      "subTitleText": "",
+      "bodyText": "To win the game, you need to hunt and kill the Wumpus. I feel a draft....",
+      "logoAssetId": "3640063222903226",
+    },
+  ];
